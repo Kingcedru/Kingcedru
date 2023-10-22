@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Ojemba
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,react,tailwind,php,mysql,docker,vite,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,react,tailwind,php,mysql,docker,vite,laravel)](https://skillicons.dev)
