@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,react,tailwind,php,mysql,docker,vite,laravel,mongo)](https://skillicons.dev)
 
-https://www.codewars.com/users/byishimocedrick
+
