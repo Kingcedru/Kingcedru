@@ -4,10 +4,8 @@ I am **BYISHIMO CEDRICK**  a fullstack software developer.
 
 Here are some ideas to get you started:
 
-- - 🔭 I am a full-stack developer.
-- 🔭 I’m currently working on Ojemba
-- 🔭 I’m currently working as an intern at The Gym Rwanda.
-- 🌱 I’m currently learning more on react and nest js
+- 🔭 I am a full-stack developer.
+- 🌱 I’m currently learning more on React and NestJS
 - 👯 I’m looking to collaborate on different opensource project
 
 
