@@ -2,9 +2,9 @@
 
 I am **BYISHIMO CEDRICK**  a fullstack software developer.
 
-- 🔭 I am a full stack developer.
-- 🌱 I’m currently learning more on React, NestJS, React Native and Next.js.
-- 👯 I’m looking to collaborate on different opensource project.
+- 🔭 I am a full-stack developer.
+- 🌱 I’m currently learning more about React, NestJS, React Native, and Next.js.
+- 👯 I’m looking to collaborate on different open-source projects.
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,react,tailwind,php,mysql,docker,vite,laravel,mongo)](https://skillicons.dev)
