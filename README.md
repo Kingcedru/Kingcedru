@@ -2,10 +2,8 @@
 
 I am **BYISHIMO CEDRICK**  a fullstack software developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I am a full-stack developer.
-- 🌱 I’m currently learning more on React and NestJS
+- 🔭 I am a full stack developer.
+- 🌱 I’m currently learning more on React, NestJS, React Native, Next.js
 - 👯 I’m looking to collaborate on different opensource project
 
 
