@@ -7,7 +7,7 @@ I am **BYISHIMO CEDRICK**  a full-stack software developer.
 - 👯 I’m looking to collaborate on different open-source projects.
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,react,tailwind,php,mysql,docker,vite,laravel,mongo,postgresql,nextjs,nestjs,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,react,tailwind,php,mysql,docker,vite,laravel,mongo,postgresql,nextjs,nestjs,nodejs,expressjs)](https://skillicons.dev)
 
 
 <a target='_black' href="https://www.codewars.com/users/byishimocedrick"><img src="https://www.codewars.com/users/byishimocedrick/badges/micro"></a>
