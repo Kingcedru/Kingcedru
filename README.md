@@ -3,7 +3,7 @@
 I am **BYISHIMO CEDRICK**  a full-stack software developer.
 
 - 🔭 I am a full-stack developer.
-- 🌱 I’m currently learning more about React, NestJS, React Native, and Next.js.
+- 🌱 I’m currently learning more about React, NestJS, Angular, React Native, and Next.js.
 - 👯 I’m looking to collaborate on different open-source projects.
 
 
