@@ -1,9 +1,18 @@
-### Hi there 👋
+###👋 Hi there I am **BYISHIMO CEDRICK**
 
-I am **BYISHIMO CEDRICK**  a full-stack software developer.
+## 🚀 About Me
+I am a full-stack developer with a passion for building web applications using React, Angular and React Native.
 
-- 🔭 I am a full-stack developer.
-- 🌱 I’m currently learning more about React, NestJS, Angular, React Native, and Next.js.
+## 🛠️ Technologies & Tools
+- **Frontend:** React, Angular, JavaScript, HTML, CSS
+-  **Backend:** NestJs, Node.js, Express
+- **Tools:** Git, GitHub, VS Code, npm, Webpack
+
+## 🌱 Currently Learning
+- Advanced Angular concepts
+- Solidity
+- Advanced Node.js concepts
+
 - 👯 I’m looking to collaborate on different open-source projects.
 
 
