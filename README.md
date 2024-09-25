@@ -1,4 +1,4 @@
-###👋 Hi there I am **BYISHIMO CEDRICK**
+👋 Hi there I am **BYISHIMO CEDRICK**
 
 ## 🚀 About Me
 I am a full-stack developer with a passion for building web applications using React, Angular and React Native.
