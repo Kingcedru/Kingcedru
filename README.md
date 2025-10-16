@@ -16,7 +16,7 @@ I am a full-stack developer with a passion for building web applications using R
 - 👯 I’m looking to collaborate on different open-source projects.
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,java,react,tailwind,php,mysql,docker,vite,laravel,mongo,postgresql,nextjs,nestjs,nodejs,expressjs,bootstrap,angular,solidity,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,typescript,java,react,tailwind,php,mysql,docker,vite,laravel,mongo,postgresql,nextjs,nestjs,nodejs,expressjs,bootstrap,angular,solidity,spring)](https://skillicons.dev)
 
 
 <a target='_black' href="https://www.codewars.com/users/byishimocedrick"><img src="https://www.codewars.com/users/byishimocedrick/badges/micro"></a>
